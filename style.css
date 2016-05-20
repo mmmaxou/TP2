@@ -2,13 +2,15 @@
 {
 	margin: 0 30px;
 	background: #fff;
-    border-radius: 10px;
 }
 
 #header
 {
-	background: #ccc;
+	background: #E9F0F7;
 	padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
 }
 
 #header h1 { margin: 0; }
@@ -89,8 +91,13 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #E9F0F7;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: #13a33a;
 }
